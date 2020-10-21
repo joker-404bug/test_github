@@ -1,0 +1,10 @@
+table{
+    margin: auto;
+}
+body{
+    text-align: center;
+    background-color: beige;
+}
+button{
+    font-size: 120%;
+}
