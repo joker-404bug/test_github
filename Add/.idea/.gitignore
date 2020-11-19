@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+<<<<<<< HEAD:web/Add/.idea/.gitignore
+/../../../../:\IDEA\Add\.idea/dataSources/
+=======
+/../../../../../../:\academic\git\web\untitled1\.idea/dataSources/
+>>>>>>> 7cd0f5819028442b9629478666771257b255e76b:web/untitled1/.idea/.gitignore
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
